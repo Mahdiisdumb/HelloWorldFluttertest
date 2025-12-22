@@ -29,7 +29,6 @@ migrate_working_dir/
 .flutter-plugins-dependencies
 .pub-cache/
 .pub/
-/build/
 /coverage/
 
 # Symbolication related
@@ -42,3 +41,13 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+/build/.cxx
+build/.last_build_id
+/build/app
+/build/reports
+/build/native_hooks
+/build/flutter_assets
+build/6ab642d2d29d49c7c5f5a6d85fcef46b.cache.dill.track.dill
+build/ee3a76ae41b23653883b17b4869bb342/.filecache
+/build/ee3a76ae41b23653883b17b4869bb342
+/build/windows
